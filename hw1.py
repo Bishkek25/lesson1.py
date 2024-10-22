@@ -1,3 +1,20 @@
+ class Car:
+     name = 'MERS'
+     def sayname(self):
+         print(self.name)
+
+
+
+
+
+
+
+
+
+
+
+
+
 class SuperHero:
     people = 'people'
 def __init__(self, name, nickname, superpower, health_points, catchprase):
